@@ -1,4 +1,4 @@
-# PRD: 하루 자동 일기 앱
+# HaruDiary App - PRD
 ---
 
 ## 개요
