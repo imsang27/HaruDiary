@@ -1,4 +1,4 @@
-# HaruDiary 앱 (가칭)
+# HaruDiary App
 ---
 
 ## 📌 개요
@@ -33,6 +33,7 @@
 | 분류 | 도구 |
 |------|------|
 | 플랫폼 | Android (Kotlin), iOS (Swift) |
+| 클라이언트 앱 | Flutter |
 | 녹음 처리 | AudioRecord / AVFoundation |
 | STT | Whisper API, Google Speech-to-Text |
 | 요약 | OpenAI GPT API, HuggingFace Transformers |
@@ -43,9 +44,10 @@
 ---
 
 ## 🚧 현재 진행 상황
-- [x] PRD 초안 정리 완료
-- [x] Wireframe 구상 완료
-- [x] API 설계 완료
+- [x] [PRD](https://github.com/imsang27/HaruDiary/blob/main/docs/PRD.md)
+- [x] [기능 사양서](https://github.com/imsang27/HaruDiary/blob/main/docs/%EA%B8%B0%EB%8A%A5%20%EC%82%AC%EC%96%91%EC%84%9C(Func%20Spec).md)
+- [x] [Wireframe](https://github.com/imsang27/HaruDiary/blob/main/docs/%ED%99%94%EB%A9%B4%20%EA%B5%AC%EC%84%B1%EB%8F%84(Wireframe).md)
+- [x] [API 설계 완료](https://github.com/imsang27/HaruDiary/blob/main/docs/API%20%EC%84%A4%EB%AA%85%EC%84%9C(API%20Spec).md)
 - [ ] DB 구조 설계 예정
 - [ ] MVP 기능 구현 진행 예정
 
