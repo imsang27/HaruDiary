@@ -1,4 +1,4 @@
-# 기능 사양서 v0.1 – 하루 자동 일기 앱
+# HaruDiary App - 기능 사양서 v0.1
 ---
 
 ## 1. 기능: 음성 자동 녹음 (Voice Recorder)
