@@ -1,4 +1,4 @@
-# Flutter 기반 작업 환경 정의서 + Python 연동 구조
+# HaruDiary App - Flutter 기반 작업 환경 정의서 + Python 연동 구조 
 ---
 
 ## 1. 개발 환경 정의 (Flutter 중심)
